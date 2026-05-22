@@ -1,4 +1,4 @@
-# 🏥 Clinical Forms Template Demo
+# 🏥 Clinical Form Template Demo
 
 A frontend medical document template app built with React, Vite, and Cropper.js.
 
@@ -10,7 +10,7 @@ This is a sanitized portfolio demo. All client names, contact details, registrat
 
 ## 🚀 Live Demo
 
-Coming soon.
+https://clinical-form-template.onrender.com
 
 ---
 
